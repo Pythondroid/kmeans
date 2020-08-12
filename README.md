@@ -1,1 +1,1 @@
-# kmeans
+This is a simple project to demonstrate the k-means algorithm. It analyses a group of mall customers based on their income and spending levels and divides them into clusters. Python libraries used include NumPy, pandas, sklearn, and matplotlib
